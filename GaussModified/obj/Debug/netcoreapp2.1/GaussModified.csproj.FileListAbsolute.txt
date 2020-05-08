@@ -1,0 +1,11 @@
+C:\Users\Anuar\source\repos\SAU\GaussModified\bin\Debug\netcoreapp2.1\GaussModified.deps.json
+C:\Users\Anuar\source\repos\SAU\GaussModified\bin\Debug\netcoreapp2.1\GaussModified.runtimeconfig.json
+C:\Users\Anuar\source\repos\SAU\GaussModified\bin\Debug\netcoreapp2.1\GaussModified.runtimeconfig.dev.json
+C:\Users\Anuar\source\repos\SAU\GaussModified\bin\Debug\netcoreapp2.1\GaussModified.dll
+C:\Users\Anuar\source\repos\SAU\GaussModified\bin\Debug\netcoreapp2.1\GaussModified.pdb
+C:\Users\Anuar\source\repos\SAU\GaussModified\obj\Debug\netcoreapp2.1\GaussModified.csprojAssemblyReference.cache
+C:\Users\Anuar\source\repos\SAU\GaussModified\obj\Debug\netcoreapp2.1\GaussModified.csproj.CoreCompileInputs.cache
+C:\Users\Anuar\source\repos\SAU\GaussModified\obj\Debug\netcoreapp2.1\GaussModified.AssemblyInfoInputs.cache
+C:\Users\Anuar\source\repos\SAU\GaussModified\obj\Debug\netcoreapp2.1\GaussModified.AssemblyInfo.cs
+C:\Users\Anuar\source\repos\SAU\GaussModified\obj\Debug\netcoreapp2.1\GaussModified.dll
+C:\Users\Anuar\source\repos\SAU\GaussModified\obj\Debug\netcoreapp2.1\GaussModified.pdb

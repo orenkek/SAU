@@ -1,0 +1,11 @@
+C:\Users\Anuar\source\repos\SAU\SAU\bin\Debug\netcoreapp2.1\SAU.deps.json
+C:\Users\Anuar\source\repos\SAU\SAU\bin\Debug\netcoreapp2.1\SAU.runtimeconfig.json
+C:\Users\Anuar\source\repos\SAU\SAU\bin\Debug\netcoreapp2.1\SAU.runtimeconfig.dev.json
+C:\Users\Anuar\source\repos\SAU\SAU\bin\Debug\netcoreapp2.1\SAU.dll
+C:\Users\Anuar\source\repos\SAU\SAU\bin\Debug\netcoreapp2.1\SAU.pdb
+C:\Users\Anuar\source\repos\SAU\SAU\obj\Debug\netcoreapp2.1\SAU.csprojAssemblyReference.cache
+C:\Users\Anuar\source\repos\SAU\SAU\obj\Debug\netcoreapp2.1\SAU.csproj.CoreCompileInputs.cache
+C:\Users\Anuar\source\repos\SAU\SAU\obj\Debug\netcoreapp2.1\SAU.AssemblyInfoInputs.cache
+C:\Users\Anuar\source\repos\SAU\SAU\obj\Debug\netcoreapp2.1\SAU.AssemblyInfo.cs
+C:\Users\Anuar\source\repos\SAU\SAU\obj\Debug\netcoreapp2.1\SAU.dll
+C:\Users\Anuar\source\repos\SAU\SAU\obj\Debug\netcoreapp2.1\SAU.pdb
