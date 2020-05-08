@@ -1,0 +1,11 @@
+C:\Users\Anuar\source\repos\SAU\LU\bin\Debug\netcoreapp2.1\LU.deps.json
+C:\Users\Anuar\source\repos\SAU\LU\bin\Debug\netcoreapp2.1\LU.runtimeconfig.json
+C:\Users\Anuar\source\repos\SAU\LU\bin\Debug\netcoreapp2.1\LU.runtimeconfig.dev.json
+C:\Users\Anuar\source\repos\SAU\LU\bin\Debug\netcoreapp2.1\LU.dll
+C:\Users\Anuar\source\repos\SAU\LU\bin\Debug\netcoreapp2.1\LU.pdb
+C:\Users\Anuar\source\repos\SAU\LU\obj\Debug\netcoreapp2.1\LU.csprojAssemblyReference.cache
+C:\Users\Anuar\source\repos\SAU\LU\obj\Debug\netcoreapp2.1\LU.csproj.CoreCompileInputs.cache
+C:\Users\Anuar\source\repos\SAU\LU\obj\Debug\netcoreapp2.1\LU.AssemblyInfoInputs.cache
+C:\Users\Anuar\source\repos\SAU\LU\obj\Debug\netcoreapp2.1\LU.AssemblyInfo.cs
+C:\Users\Anuar\source\repos\SAU\LU\obj\Debug\netcoreapp2.1\LU.dll
+C:\Users\Anuar\source\repos\SAU\LU\obj\Debug\netcoreapp2.1\LU.pdb

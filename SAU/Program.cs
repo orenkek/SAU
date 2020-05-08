@@ -67,6 +67,7 @@ namespace SAU
                     for (int k = size; k >= i; k--)
                         A[j, k] -= tmp * A[i, k];
                 }
+                PrintMatrix(A);
             }
             double[] x = new double[size];
 
@@ -94,6 +95,8 @@ namespace SAU
 
                 Console.WriteLine(tmp);
             }
+
+            Console.WriteLine();
         }
 
         static void PrintMatrix(double[] x)
@@ -102,6 +105,8 @@ namespace SAU
            {
                Console.Write($"{x[i]}  ");
            }
+
+           Console.WriteLine();
         }
         static void Main(string[] args)
         {
